@@ -1,5 +1,3 @@
-
-
 api   ajax相关
 assets 公共资源
 components  非路由组件
